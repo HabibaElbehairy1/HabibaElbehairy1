@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Analytics
 
-> **ملاحظة مهمة:** الإحصائيات التالية **تظهر بشكل طبيعي جداً** على صفحة ملفك الشخصي العامة (https://github.com/HabibaElbehairy1). أما داخل معاينة التعديل (Preview) فـ GitHub لا يعرضها لحماية الخصوصية، لكنها تعمل فور حفظ الملف وزيارة البروفايل.
+> **💡 Note:** The stats below appear automatically on your public profile (`https://github.com/HabibaElbehairy1`). They do NOT show in the README preview while editing, but they work perfectly after saving and visiting your profile.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
@@ -71,7 +71,7 @@
 ### ⚡ Currently Learning
 
 <details>
-<summary><strong>📖 اضغطي هنا لرؤية ما أتعلمه حالياً</strong></summary>
+<summary><strong>📖 Click to expand</strong></summary>
 
 - ⚡ **ASP.NET Core:** Minimal APIs, gRPC, Performance tuning.
 - ☁️ **Azure:** App Service, Functions, Cosmos DB.
