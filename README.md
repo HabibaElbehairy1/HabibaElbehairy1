@@ -1,94 +1,216 @@
 <div align="center">
 
-# Hi there, I'm Habiba Elbehairy 👋
+# 👋 Hi, I'm
 
-### .NET Developer | ASP.NET Core & REST APIs
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Habiba+Elbehairy;.%NET+Backend+Developer;ASP.NET+Core+Developer;Building+Scalable+APIs"
+    alt="Typing SVG"
+  />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer+%7C+ASP.NET+Core;Building+scalable+APIs;Clean+Architecture+%26+EF+Core;Always+learning+something+new)](https://git.io/typing-svg)
+### .NET Backend Developer | ASP.NET Core | REST APIs | Clean Architecture
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/habiba-elbehairy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Habiba_Elbhairy">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/HabibaElbehairy1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/habiba-elbehairy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Habiba_Elbhairy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-</p>
-
 ---
 
-## 🧭 About Me
+## 👩‍💻 About Me
 
-- 🎯 Backend Developer with a strong interest in web development
-- 🐍 Skilled in building efficient, scalable APIs and applications using **ASP.NET Core** & **Entity Framework Core**
-- 🌱 Currently building **PlantCareSystem (Grovana)** — an e-commerce + AI plant disease diagnosis + community platform
-- 📍 Based in Shebin El Kom, Al Minufiyah, Egypt
-- 💬 Open to collaborating on backend & API projects
+I'm a **Backend Developer** passionate about building reliable, scalable,
+and maintainable applications using the **.NET ecosystem**.
+
+- 🚀 Building RESTful APIs with **ASP.NET Core**
+- 🏗️ Designing applications using **Clean Architecture**
+- 🧩 Applying **SOLID Principles & Design Patterns**
+- 🗄️ Working with **Entity Framework Core & SQL Server**
+- 🐳 Containerizing applications with **Docker**
+- ⚡ Interested in performance, scalability, and clean code
+- 🌱 Currently working on **PlantCareSystem (Grovana)**
+- 🤝 Open to collaborating on backend & API projects
+- 📍 Egypt
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-| Category        | Tools |
-|------------------|-------|
-| **Languages**    | C#, Java |
-| **Frameworks**   | ASP.NET Core Web API |
-| **Data**         | Entity Framework Core, SQL Server |
-| **Architecture** | Clean Architecture |
-| **DevOps**       | Docker |
-| **Other**        | Git, REST API design |
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+</p>
+
+### 🗄️ Database & Data Access
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🏗️ Architecture & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge" />
+</p>
+
+### 🐳 DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌱 [PlantCareSystem (Grovana)](https://github.com/HabibaElbehairy1/PlantCareSystem)
-A full-featured Django REST Framework backend for an all-in-one plant care platform combining:
-- 🔐 JWT auth with email OTP verification
-- 🧠 AI-powered plant disease diagnosis (custom CNN, 39 disease classes)
-- 🛒 E-commerce shop with cart, wishlist, and checkout
-- 👥 Community feature with posts & comments
-- 🐳 Dockerized, deployed with Gunicorn
+## 🌱 PlantCareSystem — Grovana
+
+> AI-powered plant care, e-commerce & community platform.
+
+A full-featured platform combining plant disease diagnosis,
+e-commerce functionality, and a community system.
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 📧 Email OTP Verification
+- 🧠 AI Plant Disease Diagnosis
+- 🌿 CNN Model — 39 Disease Classes
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 💳 Checkout
+- 👥 Community Posts & Comments
+- 🐳 Dockerized Deployment
+
+### 🧰 Technologies
 
 `Python` `Django` `DRF` `PyTorch` `PostgreSQL` `Docker` `JWT`
 
-### 🧩 [DesignPatterns](https://github.com/HabibaElbehairy1/DesignPatterns)
-Practice implementations of classic software design patterns.
-
-`Java`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=default" alt="Habiba Elbehairy's GitHub streak stats">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=flat&no-frame=true&row=1&column=6">
+<p>
+  <a href="https://github.com/HabibaElbehairy1/PlantCareSystem">
+    <img src="https://img.shields.io/badge/View%20Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🧩 DesignPatterns
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/habiba-elbehairy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Habiba_Elbhairy"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white"></a>
+A collection of practical implementations of classic
+software design patterns.
+
+### 📚 Covered Concepts
+
+- Creational Patterns
+- Structural Patterns
+- Behavioral Patterns
+- Object-Oriented Design
+
+### 🧰 Technologies
+
+`Java` `OOP` `Design Patterns`
+
+<p>
+  <a href="https://github.com/HabibaElbehairy1/DesignPatterns">
+    <img src="https://img.shields.io/badge/View%20Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-⭐️ From [HabibaElbehairy1](https://github.com/HabibaElbehairy1)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+  height="180"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent"
+  height="180"
+/>
 
 </div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaElbehairy1&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+ASP.NET Core
+        ↓
+Advanced REST API Design
+        ↓
+Clean Architecture
+        ↓
+Domain-Driven Design
+        ↓
+Advanced Entity Framework Core
+        ↓
+Database Optimization
+        ↓
+Docker & Containerization
+        ↓
+System Design
