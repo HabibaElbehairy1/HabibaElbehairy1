@@ -59,9 +59,11 @@
 
 ### 📊 GitHub Analytics
 
+> **ملاحظة:** الإحصائيات التالية تظهر تلقائياً على صفحة ملفك الشخصي العامة (https://github.com/HabibaElbehairy1) وليس داخل معاينة ملف README أثناء التحرير.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D1117" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -89,5 +91,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HabibaElbehairy1/HabibaElbehairy1/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" alt=".NET Logo" width="60" />
+  <br><small>Powered by .NET ❤️</small>
 </p>
