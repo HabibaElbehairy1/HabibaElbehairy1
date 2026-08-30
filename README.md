@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Analytics
 
-> **💡 Note:** The stats below appear automatically on your public profile (`https://github.com/HabibaElbehairy1`). They do NOT show in the README preview while editing, but they work perfectly after saving and visiting your profile.
+> **💡 Note:** The stats below appear automatically on your public profile (`https://github.com/HabibaElbehairy1`). They do **not** show in the README preview while editing, but they work perfectly after saving and visiting your profile.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
