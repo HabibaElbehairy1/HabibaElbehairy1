@@ -3,15 +3,12 @@
 # 👋 Hi, I'm
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Habiba+Elbehairy;.%NET+Backend+Developer;ASP.NET+Core+Developer;Building+Scalable+APIs"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Habiba+Elbehairy;.NET+Backend+Developer;ASP.NET+Core+Developer;Building+Scalable+APIs;Clean+Architecture+%26+EF+Core" alt="Typing SVG" />
 </a>
 
 ### .NET Backend Developer | ASP.NET Core | REST APIs | Clean Architecture
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/habiba-elbehairy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -29,18 +26,17 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Backend Developer** passionate about building reliable, scalable,
-and maintainable applications using the **.NET ecosystem**.
+I'm a **Backend Developer** focused on building reliable, scalable, and maintainable applications using the **.NET ecosystem**.
 
-- 🚀 Building RESTful APIs with **ASP.NET Core**
-- 🏗️ Designing applications using **Clean Architecture**
-- 🧩 Applying **SOLID Principles & Design Patterns**
-- 🗄️ Working with **Entity Framework Core & SQL Server**
-- 🐳 Containerizing applications with **Docker**
-- ⚡ Interested in performance, scalability, and clean code
-- 🌱 Currently working on **PlantCareSystem (Grovana)**
-- 🤝 Open to collaborating on backend & API projects
-- 📍 Egypt
+* 🚀 Building RESTful APIs with **ASP.NET Core**
+* 🏗️ Designing systems using **Clean Architecture**
+* 🧩 Applying **SOLID Principles & Design Patterns**
+* 🗄️ Working with **Entity Framework Core & SQL Server**
+* 🐳 Containerizing applications with **Docker**
+* ⚡ Interested in performance, scalability, and clean code
+* 🌱 Currently working on **PlantCareSystem (Grovana)**
+* 🤝 Open to collaborating on backend & API projects
+* 📍 Egypt
 
 ---
 
@@ -96,20 +92,19 @@ and maintainable applications using the **.NET ecosystem**.
 
 > AI-powered plant care, e-commerce & community platform.
 
-A full-featured platform combining plant disease diagnosis,
-e-commerce functionality, and a community system.
+A full-featured platform combining plant disease diagnosis, e-commerce functionality, and community interaction.
 
 ### ✨ Features
 
-- 🔐 JWT Authentication
-- 📧 Email OTP Verification
-- 🧠 AI Plant Disease Diagnosis
-- 🌿 CNN Model — 39 Disease Classes
-- 🛒 Shopping Cart
-- ❤️ Wishlist
-- 💳 Checkout
-- 👥 Community Posts & Comments
-- 🐳 Dockerized Deployment
+* 🔐 JWT Authentication
+* 📧 Email OTP Verification
+* 🧠 AI Plant Disease Diagnosis
+* 🌿 CNN Model — 39 Disease Classes
+* 🛒 Shopping Cart
+* ❤️ Wishlist
+* 💳 Checkout
+* 👥 Community Posts & Comments
+* 🐳 Dockerized Deployment
 
 ### 🧰 Technologies
 
@@ -125,15 +120,14 @@ e-commerce functionality, and a community system.
 
 ## 🧩 DesignPatterns
 
-A collection of practical implementations of classic
-software design patterns.
+A collection of practical implementations of classic software design patterns.
 
 ### 📚 Covered Concepts
 
-- Creational Patterns
-- Structural Patterns
-- Behavioral Patterns
-- Object-Oriented Design
+* Creational Patterns
+* Structural Patterns
+* Behavioral Patterns
+* Object-Oriented Design
 
 ### 🧰 Technologies
 
@@ -152,20 +146,20 @@ software design patterns.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent"
-  height="180"
+src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-  height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+height="180"
 />
 
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent"
-  height="180"
+src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent"
+height="180"
 />
 
 </div>
@@ -177,7 +171,7 @@ software design patterns.
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
+src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
 />
 
 </div>
@@ -189,7 +183,7 @@ software design patterns.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaElbehairy1&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaElbehairy1&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true"
 />
 
 </div>
@@ -198,19 +192,45 @@ software design patterns.
 
 # 🎯 Currently Learning
 
-```text
-ASP.NET Core
-        ↓
-Advanced REST API Design
-        ↓
-Clean Architecture
-        ↓
-Domain-Driven Design
-        ↓
-Advanced Entity Framework Core
-        ↓
-Database Optimization
-        ↓
-Docker & Containerization
-        ↓
-System Design
+<p align="center">
+
+`Advanced ASP.NET Core`
+`Scalable REST API Design`
+`Clean Architecture`
+`Domain-Driven Design`
+`Advanced Entity Framework Core`
+`Database Optimization`
+`Docker & Containerization`
+`System Design`
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, engineers, and teams working on interesting backend projects.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/habiba-elbehairy">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/Habiba_Elbhairy">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://github.com/HabibaElbehairy1">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💙 Building better systems, one commit at a time.
+
+⭐️ From [HabibaElbehairy1](https://github.com/HabibaElbehairy1)
+
+</div>
