@@ -2,11 +2,11 @@
 
 # Habiba Elbehairy
 
-**Backend Engineer · ASP.NET Core · Clean Architecture · Open Source**
+**Backend Engineer** · ASP.NET Core · Clean Architecture · Open Source
 
 [LinkedIn](https://www.linkedin.com/in/habiba-elbehairy) · [X](https://x.com/Habiba_Elbhairy) · [GitHub](https://github.com/HabibaElbehairy1)
 
-<img src="./assets/banner.png" alt="Habiba Elbehairy — Backend Engineer" width="900" />
+`.NET Backend Developer` · `Scalable REST APIs` · `Docker` · `AI-integrated systems`
 
 </div>
 
@@ -26,25 +26,19 @@ I design and ship **production-ready backend systems** on the .NET stack: clear 
 
 ## Tech stack
 
-<div align="center">
-  <img src="./assets/tech-stack.png" alt="Tech stack: C#, Java, Python, .NET, ASP.NET Core, Django, SQL Server, PostgreSQL, EF Core, Docker, Azure" width="900" />
-</div>
-
-**Languages:** C# · Java · Python  
-**Backend:** .NET · ASP.NET Core · Django REST  
-**Data:** SQL Server · PostgreSQL · Entity Framework Core  
-**Architecture:** Clean Architecture · SOLID · DDD · Design Patterns  
-**AI & delivery:** PyTorch · Docker · GitHub Actions · Azure
+| Layer | Tools |
+|-------|--------|
+| Languages | C# · Java · Python |
+| Backend | .NET · ASP.NET Core · Django REST |
+| Data | SQL Server · PostgreSQL · Entity Framework Core |
+| Architecture | Clean Architecture · SOLID · DDD · Design Patterns |
+| AI & delivery | PyTorch · Docker · GitHub Actions · Azure |
 
 ---
 
 ## Featured work
 
-<div align="center">
-  <img src="./assets/featured-work.png" alt="Featured work: PlantCareSystem and DesignPatterns" width="900" />
-</div>
-
-### PlantCareSystem — Grovana
+### [PlantCareSystem — Grovana](https://github.com/HabibaElbehairy1/PlantCareSystem)
 
 AI-powered plant care platform: diagnosis, commerce, and community.
 
@@ -56,21 +50,14 @@ AI-powered plant care platform: diagnosis, commerce, and community.
 | Community | Posts, comments, and user interaction |
 | Ops | Dockerized and ready for cloud deploy |
 
-[Repository](https://github.com/HabibaElbehairy1/PlantCareSystem)
+### [DesignPatterns](https://github.com/HabibaElbehairy1/DesignPatterns)
 
-### DesignPatterns
+Hands-on implementations of classic patterns in Java:
 
-Hands-on implementations of classic patterns in Java: creational (Singleton, Factory, Builder, Prototype), structural (Adapter, Decorator, Proxy, Facade), and behavioral (Observer, Strategy, State, Command), grounded in OOP and SOLID.
-
-[Repository](https://github.com/HabibaElbehairy1/DesignPatterns)
-
----
-
-## GitHub
-
-<div align="center">
-  <img src="./assets/github-activity.png" alt="GitHub activity" width="900" />
-</div>
+- **Creational:** Singleton, Factory, Builder, Prototype
+- **Structural:** Adapter, Decorator, Proxy, Facade
+- **Behavioral:** Observer, Strategy, State, Command
+- **Principles:** OOP, SOLID, encapsulation, polymorphism
 
 ---
 
@@ -100,7 +87,7 @@ Hands-on implementations of classic patterns in Java: creational (Singleton, Fac
 
 <div align="center">
 
-<img src="./assets/connect.png" alt="Let’s build reliable backends" width="900" />
+**Let’s build reliable backends.**
 
 [LinkedIn](https://www.linkedin.com/in/habiba-elbehairy) · [X](https://x.com/Habiba_Elbhairy) · [GitHub](https://github.com/HabibaElbehairy1)
 
