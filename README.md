@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Analytics
 
-> **ملاحظة:** الإحصائيات التالية تظهر تلقائياً على صفحة ملفك الشخصي العامة (https://github.com/HabibaElbehairy1) وليس داخل معاينة ملف README أثناء التحرير.
+> **ملاحظة مهمة:** الإحصائيات التالية **تظهر بشكل طبيعي جداً** على صفحة ملفك الشخصي العامة (https://github.com/HabibaElbehairy1). أما داخل معاينة التعديل (Preview) فـ GitHub لا يعرضها لحماية الخصوصية، لكنها تعمل فور حفظ الملف وزيارة البروفايل.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" width="48%" />
@@ -71,7 +71,7 @@
 ### ⚡ Currently Learning
 
 <details>
-<summary><strong>🔽 Click to expand</strong></summary>
+<summary><strong>📖 اضغطي هنا لرؤية ما أتعلمه حالياً</strong></summary>
 
 - ⚡ **ASP.NET Core:** Minimal APIs, gRPC, Performance tuning.
 - ☁️ **Azure:** App Service, Functions, Cosmos DB.
@@ -91,6 +91,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" alt=".NET Logo" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Logo" width="60" />
   <br><small>Powered by .NET ❤️</small>
 </p>
