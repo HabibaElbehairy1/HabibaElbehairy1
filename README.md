@@ -151,24 +151,6 @@ src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&the
 height="180"
 />
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&hide_border=true&theme=transparent&count_private=true"
-height="180"
-/>
-
-<br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&hide_border=true&theme=transparent&layout=compact&langs_count=8"
-height="180"
-/>
-
-<br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaElbehairy1&theme=transparent&hide_border=true&area=true"
-/>
-
 </div>
 
 ---
