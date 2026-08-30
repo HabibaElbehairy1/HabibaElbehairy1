@@ -85,7 +85,7 @@ I'm a **Backend Developer** passionate about crafting robust, scalable, and main
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="180" />
@@ -95,6 +95,16 @@ I'm a **Backend Developer** passionate about crafting robust, scalable, and main
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent" height="180" />
 </div>
+
+### 📈 Detailed Activity (as of August 30, 2026)
+
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | Dec 4, 2024 – Present |
+| **Current Streak** | Aug 30 (ongoing) |
+| **Longest Streak** | Apr 23 – Apr 29, 2025 |
+
+> *These stats are updated live via the streak and activity graphs above.*
 
 ### 🔥 Contribution Graph
 
