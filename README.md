@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 مرحبًا، أنا حبيبة البحيري
+# 👋 Hi, I'm Habiba Elbehairy
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;ASP.NET+Core+Expert;Building+Scalable+APIs;Clean+Architecture+%26+EF+Core;Docker+%7C+AI+Enthusiast" alt="Typing SVG" />
@@ -8,77 +8,94 @@
 
 <br/>
 
-**`مهندسة باك إند · مصممة أنظمة · مساهمة في المصادر المفتوحة`**
+**`Backend Engineer · System Architect · Open Source Contributor`**
 
 <a href="https://www.linkedin.com/in/habiba-elbehairy">
-  <img src="https://img.shields.io/badge/LinkedIn-تابعني-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/Habiba_Elbhairy">
-  <img src="https://img.shields.io/badge/X-تابعني-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/HabibaElbehairy1">
-  <img src="https://img.shields.io/badge/GitHub-تابعني-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:habibaelbehairy@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- عداد الزوار -->
-<img src="https://komarev.com/ghpvc/?username=HabibaElbehairy1&label=عدد%20الزوار&color=2E9EF7&style=flat-square" alt="Profile views" />
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=HabibaElbehairy1&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👩‍💻 نبذة عني
+## 👩‍💻 About Me
 
-مطورة **باك إند** شغوفة ببناء أنظمة قوية وقابلة للتطوير باستخدام تقنيات **.NET**. أعتمد على **Clean Architecture** ومبادئ **SOLID** وأنماط التصميم لضمان جودة الكود.
+I'm a **Backend Developer** passionate about crafting robust, scalable, and maintainable systems using the .NET ecosystem. I rely on **Clean Architecture**, **SOLID principles**, and **design patterns** to deliver production-grade solutions.
 
-- 🔭 أعمل حاليًا على مشروع **[PlantCareSystem (Grovana)](https://github.com/HabibaElbehairy1/PlantCareSystem)** – منصة تعنى بالعناية بالنباتات باستخدام الذكاء الاصطناعي.
-- 🌱 أتعلم حاليًا **ASP.NET Core المتقدم**، **Microservices**، وتطبيقات **السحابة**.
-- 👯 مرحبًا بالتعاون في مشاريع **الباك إند** و **APIs** و **.NET مفتوحة المصدر**.
-- 📫 للتواصل: [LinkedIn](https://www.linkedin.com/in/habiba-elbehairy) أو [X](https://x.com/Habiba_Elbhairy).
+- 🔭 I'm currently working on **[PlantCareSystem (Grovana)](https://github.com/HabibaElbehairy1/PlantCareSystem)** – an AI-powered platform for plant care, e-commerce, and community.
+- 🌱 I'm continuously leveling up in **Advanced ASP.NET Core**, **Microservices**, and **Cloud-native development**.
+- 👯 I'm open to collaborating on **backend APIs**, **open-source .NET projects**, and **AI‑integrated applications**.
+- 💬 Ask me about **.NET Core**, **EF Core**, **REST API design**, **Docker**, or **Clean Architecture**.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/habiba-elbehairy) or [X](https://x.com/Habiba_Elbhairy).
+- 📍 Based in Shebin El Kom, Al Minufiyah, Egypt.
 
 ---
 
-## 🛠️ التقنيات التي أستخدمها
+## 🛠️ Tech Stack
 
-### لغات البرمجة
+### Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### أطر العمل (Backend)
+### Backend Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### قواعد البيانات
+### Data & Storage
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### الهندسة والمعمارية
+### Architecture & Design
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-111827?style=for-the-badge)
-![DDD](https://img.shields.io/badge/Domain--Driven%20Design-111827?style=for-the-badge)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven%20Design-111827?style=for-the-badge)
 
-### أدوات النشر والسحابة
+### AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 📊 إحصائيات GitHub (صورتك الخاصة)
+## 📊 GitHub Stats & Activity
 
+### ✅ My Exact Stats (from `image.png`) – Guaranteed to Load
 <div align="center">
-  <!-- هنا تم وضع الصورة التي رفعتها مباشرة لتظهر دايمًا بدون مشاكل -->
-  <img src="image.png" alt="إحصائيات وإنجازات حبيبة على GitHub" width="850" />
+  <img src="image.png" alt="Habiba's GitHub Stats and Achievements" width="850" />
 </div>
+
+### 📋 Verified Data Points from the Image Above
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | Dec 4, 2024 – Present |
+| **Current Streak** | Aug 30 (ongoing) |
+| **Longest Streak** | Apr 23, 2025 – Apr 29, 2025 |
 
 ---
 
-## 📈 إحصائيات تفاعلية إضافية (إن ظهرت)
-
+### 📈 Live Interactive Widgets (May vary based on API availability)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent" height="180" />
 </div>
@@ -89,7 +106,7 @@
 
 ---
 
-## 🏆 الشارات والإنجازات
+## 🏆 Achievements & Badges
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=transparent&no-frame=true&row=1&column=7" />
@@ -101,73 +118,106 @@
   <img src="https://img.shields.io/badge/Clean%20Architecture-2E9EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Domain--Driven%20Design-2E9EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Advanced%20EF%20Core-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Optimization-2E9EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker%20&%20Containerization-2E9EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-2E9EF7?style=flat-square" />
 </p>
+
+> *These match the achievements listed in my `image.png`.*
 
 ---
 
-## 🚀 أبرز المشاريع
+## 🚀 Featured Projects
 
 ### 🌱 PlantCareSystem — Grovana
+> AI-powered plant care, e‑commerce & community platform.
 
-> منصة للعناية بالنباتات، التجارة الإلكترونية، والمجتمع تعمل بالذكاء الاصطناعي.
-
-| الميزة | الوصف |
+| Feature | Description |
 |---------|-------------|
-| **المصادقة** | JWT مع توكنات تحديث، وتحقق OTP عبر البريد |
-| **التشخيص بالذكاء الاصطناعي** | نموذج CNN مخصص بـ 39 فئة مرضية باستخدام PyTorch |
-| **التجارة الإلكترونية** | سلة تسوق، قائمة رغبات، طلبات، وتتبع الشحن |
-| **المجتمع** | منشورات، تعليقات، وتفاعلات بين المستخدمين |
-| **النشر** | باستخدام Docker وجاهز للسحابة |
+| **Authentication** | JWT with Access/Refresh Tokens + OTP email verification |
+| **AI Diagnosis** | Custom CNN model covering 39 disease classes using PyTorch |
+| **E-commerce** | Shopping cart, wishlist, checkout, and order tracking |
+| **Community** | Posts, comments, and user interactions |
+| **Deployment** | Docker containerization ready for cloud environments |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <a href="https://github.com/HabibaElbehairy1/PlantCareSystem">
-  <img src="https://img.shields.io/badge/عرض_المشروع-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repo-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
 ### 🧩 DesignPatterns
+> Practical implementations of classic software design patterns in Java.
 
-> تطبيقات عملية لأنماط التصميم الكلاسيكية بلغة Java.
-
-- **الأنماط الإنشائية**: Singleton, Factory, Builder
-- **الأنماط الهيكلية**: Adapter, Decorator, Proxy
-- **الأنماط السلوكية**: Observer, Strategy, State
+- **Creational**: Singleton, Factory, Builder, Prototype
+- **Structural**: Adapter, Decorator, Proxy, Facade
+- **Behavioral**: Observer, Strategy, State, Command
+- **Principles**: OOP, SOLID, encapsulation, polymorphism
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-111827?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-111827?style=flat-square)
 
 <a href="https://github.com/HabibaElbehairy1/DesignPatterns">
-  <img src="https://img.shields.io/badge/عرض_المشروع-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repo-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
-## 🤝 للتواصل
+## 📚 Core Competencies
+
+| Area | Expertise |
+|------|-----------|
+| **Backend Development** | ASP.NET Core, Django REST, RESTful APIs |
+| **Software Architecture** | Clean Architecture, DDD, SOLID, Design Patterns |
+| **Database Design** | SQL Server, PostgreSQL, Entity Framework Core |
+| **AI/ML Integration** | PyTorch, CNN Models, Image Processing |
+| **DevOps** | Docker, Containerization |
+| **Security** | JWT, OAuth 2.0, OTP Verification |
+
+---
+
+## 💡 What I'm Currently Learning
+
+<details>
+<summary><b>📘 Click to expand</b></summary>
+
+- Advanced ASP.NET Core (Minimal APIs, gRPC, performance tuning)
+- Cloud Computing (Azure App Services, Functions, Cosmos DB)
+- Message Queues (RabbitMQ, Azure Service Bus)
+- Container Orchestration (Kubernetes)
+- DevOps Pipelines (CI/CD with GitHub Actions)
+
+</details>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-دائمًا مهتمة بالتواصل مع المطورين والفرق العاملة في مشاريع الباك إند المثيرة.
+I'm always interested in connecting with developers, engineers, and teams working on interesting backend projects.
 
 <a href="https://www.linkedin.com/in/habiba-elbehairy">
-  <img src="https://img.shields.io/badge/LinkedIn-تواصل-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/Habiba_Elbhairy">
-  <img src="https://img.shields.io/badge/X-تابع-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/HabibaElbehairy1">
-  <img src="https://img.shields.io/badge/GitHub-تابع-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💙 نبني أنظمة أفضل، كوميت كوميت.
+### 💙 Building better systems, one commit at a time.
 
-⭐️ من [HabibaElbehairy1](https://github.com/HabibaElbehairy1)
+⭐️ From [HabibaElbehairy1](https://github.com/HabibaElbehairy1)
 
 </div>
