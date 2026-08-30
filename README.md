@@ -36,7 +36,7 @@ I'm a **Backend Developer** focused on building reliable, scalable, and maintain
 * ⚡ Interested in performance, scalability, and clean code
 * 🌱 Currently working on **PlantCareSystem (Grovana)**
 * 🤝 Open to collaborating on backend & API projects
-* 📍 Egypt
+* 📍 Shebin El Kom, Al Minufiyah, Egypt
 
 ---
 
@@ -96,19 +96,20 @@ A full-featured platform combining plant disease diagnosis, e-commerce functiona
 
 ### ✨ Features
 
-* 🔐 JWT Authentication
-* 📧 Email OTP Verification
-* 🧠 AI Plant Disease Diagnosis
-* 🌿 CNN Model — 39 Disease Classes
-* 🛒 Shopping Cart
-* ❤️ Wishlist
-* 💳 Checkout
+* 🔐 JWT Authentication with Access & Refresh Tokens
+* 📧 Email OTP Verification & Password Reset
+* 🧠 AI Plant Disease Diagnosis Engine
+* 🌿 Custom CNN Model — 39 Disease Classes
+* 🛒 Shopping Cart & Inventory Management
+* ❤️ Wishlist System
+* 💳 Checkout & Order Tracking
 * 👥 Community Posts & Comments
-* 🐳 Dockerized Deployment
+* 🐳 Docker Containerization
+* 📊 Interactive API Documentation
 
 ### 🧰 Technologies
 
-`Python` `Django` `DRF` `PyTorch` `PostgreSQL` `Docker` `JWT`
+`Python` `Django` `DRF` `PyTorch` `PostgreSQL` `Docker` `JWT` `CNN`
 
 <p>
   <a href="https://github.com/HabibaElbehairy1/PlantCareSystem">
@@ -124,10 +125,10 @@ A collection of practical implementations of classic software design patterns.
 
 ### 📚 Covered Concepts
 
-* Creational Patterns
-* Structural Patterns
-* Behavioral Patterns
-* Object-Oriented Design
+* Creational Patterns (Singleton, Factory, Builder)
+* Structural Patterns (Adapter, Decorator, Proxy)
+* Behavioral Patterns (Observer, Strategy, State)
+* Object-Oriented Design Principles
 
 ### 🧰 Technologies
 
@@ -146,44 +147,14 @@ A collection of practical implementations of classic software design patterns.
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=HabibaElbehairy1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaElbehairy1&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent"
 height="180"
 />
 
 <br/>
 
 <img
-src="https://streak-stats.demolab.com?user=HabibaElbehairy1&hide_border=true&theme=transparent"
-height="180"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaElbehairy1&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true"
+src="https://github-profile-trophy.vercel.app/?username=HabibaElbehairy1&theme=transparent&no-frame=true&row=1&column=6"
 />
 
 </div>
@@ -194,16 +165,29 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=HabibaElbeha
 
 <p align="center">
 
-`Advanced ASP.NET Core`
-`Scalable REST API Design`
+`Advanced ASP.NET Core` 
+`Scalable REST API Design` 
 `Clean Architecture`
 `Domain-Driven Design`
 `Advanced Entity Framework Core`
 `Database Optimization`
 `Docker & Containerization`
-`System Design`
+`System Design & Patterns`
 
 </p>
+
+---
+
+# 💡 Core Competencies
+
+| Area | Expertise |
+|------|-----------|
+| **Backend Development** | ASP.NET Core, Django REST Framework, RESTful APIs |
+| **Architecture** | Clean Architecture, SOLID Principles, Design Patterns |
+| **Database Design** | SQL Server, PostgreSQL, Entity Framework Core |
+| **AI/ML** | PyTorch, CNN Models, Image Processing |
+| **DevOps** | Docker, Containerization |
+| **Authentication** | JWT, OAuth 2.0, OTP Verification |
 
 ---
 
